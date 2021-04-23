@@ -42,9 +42,13 @@ async def on_message(message):
         quote = get_quote()
         await message.channel.send(quote)
 
-    if message.content.startswith("$8b"):
-        lucky_num = random.randint(0, len(data.response_list) - 1)
-        await message.channel.send(data.response_list[lucky_num])
+    if message.content.startswith("$8bb"):
+        lucky_num = random.randint(0, len(data.response_list_bisaya) - 1)
+        await message.channel.send(data.response_list_bisaya[lucky_num])
+    elif message.content.startswith("$8b"):
+      lucky_num = random.randint(0,len(data.response_list)-1)
+      await message.channel.send(data.response_list
+      [lucky_num])
 
     if message.content.startswith("$ohayou"):
         ohayou_num = random.randint(0, len(data.ohayou_list) - 1)

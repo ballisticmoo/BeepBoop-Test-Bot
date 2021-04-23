@@ -13,3 +13,6 @@ response_list = [
     "Don't count on it", " It is certain", "My sources say no", "Outlook good",
     "You may rely on it", "Very Doubtful", "Without a doubt","Ask me again"
 ]
+response_list_bisaya = [
+    "Sa akong nakita, oo","Pangutana nalang unya","Di saku musaba karon","Dili naku matagna karon","Hunahunaa sa daan ayha mangutana","Ayaw pagsalig anah","Sigurado kini","Gihukum kini","Lagmit","Akong tubag kay dili","Giingon sa akong mga gigikanan nga dili","Sa akong panan-aw dili kaayo","Imung tubag dili masabtan, balik usab","Ang mga timailhan nagpunting sa oo","Kadudahan kaayo","Sa walay pagduha-duha","Oo","Oo - sigurado.","You may rely on it","Mahimo ka nga mosalig niini"
+]
