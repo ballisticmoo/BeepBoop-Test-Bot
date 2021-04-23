@@ -8,8 +8,8 @@ ohayou_list = [
 
 response_list = [
     "As I see it, yes", "Yes", "No", "Very likely", "Not even close", "Maybe",
-    "Very unlikely", "Gino's mom told me yes", "Gino's mom told me no",
+    "Very unlikely", "Karl's mom told me yes", "Guy's mom told me no",
     "Ask again later", "Better not tell you now", "Concentrate and ask again",
     "Don't count on it", " It is certain", "My sources say no", "Outlook good",
-    "You may rely on it", "Very Doubtful", "Without a doubt"
+    "You may rely on it", "Very Doubtful", "Without a doubt","Ask me again"
 ]
